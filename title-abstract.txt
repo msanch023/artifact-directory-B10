@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Majorana Neutrino Hunt>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<This project focuses on the development of machine learning models to analyze time
+series data from the Majorana Demonstrator experiment, which aims to detect neu-
+trinoless double beta decay and identify Majorana neutrinos.>
